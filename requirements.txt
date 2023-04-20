@@ -17,7 +17,7 @@ parler==1.0.
 pytz==2020.1
 requests==2.25.1
 six==1.15.0
-sqlparse==0.4.2
+sqlparse==0.4.4
 urllib3==1.26.5
 virtualenv==20.4.2
 unipath==1.1
